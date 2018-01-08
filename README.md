@@ -12,7 +12,7 @@
 
  - 孙梦吉/男/1994 
  - 本科/西安工业大学北方信息工程学院/计算机信息与技术系/软件工程专业 
- - github:https://github.com/mengjikd-1
+ - github:https://github.com/mengjikd/Learning-Projects.git
  - 期望职位：Android开发工程师，软件工程师,技术支持
  - 期望薪资：面议
  - 期望城市：北京
@@ -43,6 +43,8 @@
 - 熟悉主流开源库使用：Volley、EventBus、Android Universal ImageLoader、Butterknife、ActiveAndroid、Gson等
 - 熟悉Java、c语言
 - Android四大组件及五大布局
+- 了解HTTP协议访问网络
+- 熟悉JSONObject
 - 百度地图API
 - DrawerLayout
 - 数据库：SQL、SQLite、SharedPreference
